@@ -6,4 +6,5 @@ PPT : https://docs.google.com/presentation/d/16qKXleijH2wiUXku877Ag6HLQAA9KgQw6-
 
 Have added more details in the PPT
 
-![Uploading image.png…]()
+![image](https://github.com/AjeyBharadwaj/1In9WaveshareEPaper/assets/3064026/dbd9bbc0-1877-4612-9094-58b6dc091ff6)
+
